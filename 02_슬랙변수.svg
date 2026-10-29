@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
+<rect width="1000" height="360" fill="#f8fafc"/>
+<g font-family="Malgun Gothic, sans-serif" fill="#172554">
+<text x="30" y="40" font-size="23" font-weight="bold">같은 +1 클래스 점도, 위치에 따라 슬랙이 다르다</text>
+<rect x="290" y="85" width="400" height="160" fill="#dbeafe"/>
+<path d="M290 80V250M690 80V250" stroke="#64748b" stroke-width="2" stroke-dasharray="6 5"/>
+<path d="M490 80V250" stroke="#0f172a" stroke-width="3"/>
+<path d="M80 175H930" stroke="#94a3b8" stroke-width="2"/>
+<g fill="#ea580c"><circle cx="390" cy="175" r="10"/><circle cx="490" cy="175" r="10"/><circle cx="590" cy="175" r="10"/><circle cx="690" cy="175" r="10"/><circle cx="850" cy="175" r="10"/></g>
+<g font-size="17"><text x="350" y="145">오분류</text><text x="547" y="145">맞지만 가까움</text><text x="800" y="145">충분한 여유</text>
+<text x="350" y="215">ξ = 1.5</text><text x="460" y="238">ξ = 1</text><text x="554" y="215">ξ = 0.5</text><text x="665" y="238">ξ = 0</text><text x="825" y="215">ξ = 0</text>
+<text x="255" y="280">f(x) = −1</text><text x="450" y="280">f(x) = 0</text><text x="650" y="280">f(x) = +1</text>
+<text x="170" y="322">−1 클래스 쪽</text><text x="420" y="322">결정경계</text><text x="680" y="322">+1 클래스 쪽 →</text></g>
+</g></svg>
